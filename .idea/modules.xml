@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Automation_Maven_Tasks.iml" filepath="$PROJECT_DIR$/Automation_Maven_Tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RZnamerovskiy/RZnamerovskiy.iml" filepath="$PROJECT_DIR$/RZnamerovskiy/RZnamerovskiy.iml" />
     </modules>
   </component>
 </project>
