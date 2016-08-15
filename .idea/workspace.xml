@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1618ab4-d7cf-4894-b13a-ef2af47c684b" name="Default" comment="My third test commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RZnamerovskiy/RZnamerovskiy.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RZnamerovskiy/src/main/java/Roma/Group/ID/App.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RZnamerovskiy/src/test/java/Roma/Group/ID/AppTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="b1618ab4-d7cf-4894-b13a-ef2af47c684b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Automation_Maven_Tasks.iws" />
@@ -669,7 +663,7 @@
       <workItem from="1470324160888" duration="625000" />
       <workItem from="1470411013260" duration="55955000" />
       <workItem from="1470922081255" duration="69000" />
-      <workItem from="1471263553056" duration="252000" />
+      <workItem from="1471263553056" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="My first test commit">
       <created>1470318017843</created>
@@ -685,11 +679,18 @@
       <option name="project" value="LOCAL" />
       <updated>1470318206738</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="My third test commit">
+      <created>1471263819842</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1471263819842</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59943000" />
+    <option name="totallyTimeSpent" value="59995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
@@ -735,7 +736,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My first test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="My first test commit" />
+    <MESSAGE value="My third test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="My third test commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
