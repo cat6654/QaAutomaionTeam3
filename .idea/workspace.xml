@@ -663,7 +663,7 @@
       <workItem from="1470324160888" duration="625000" />
       <workItem from="1470411013260" duration="55955000" />
       <workItem from="1470922081255" duration="69000" />
-      <workItem from="1471263553056" duration="304000" />
+      <workItem from="1471263553056" duration="487000" />
     </task>
     <task id="LOCAL-00001" summary="My first test commit">
       <created>1470318017843</created>
@@ -686,11 +686,18 @@
       <option name="project" value="LOCAL" />
       <updated>1471263819842</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="My fourth test commit">
+      <created>1471263889508</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1471263889508</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59995000" />
+    <option name="totallyTimeSpent" value="60178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
@@ -737,7 +744,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My first test commit" />
     <MESSAGE value="My third test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="My third test commit" />
+    <MESSAGE value="My fourth test commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="My fourth test commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
