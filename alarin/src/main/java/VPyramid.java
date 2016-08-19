@@ -4,6 +4,7 @@ import sun.awt.SunHints;
 /**
  * Created by alarin on 03.08.2016.
  */
+
 public class VPyramid{
 
     public void ShowPyramidOne(int height){
@@ -27,6 +28,19 @@ public class VPyramid{
     }
 
     public void ShowPyramidTwo(int height){
-
+        // first part of a pyramid
+        for(int i =1; i <= height; i++){
+            for(int n = 1; n <= i; n++ ){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+        // second part of a pyramid
+        for(int i = height-1; i >= 0; i--){
+            for(int n = 1; n <= i; n++ ){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
     }
 }
