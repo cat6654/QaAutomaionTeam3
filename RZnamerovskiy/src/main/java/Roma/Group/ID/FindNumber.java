@@ -27,7 +27,7 @@ public class FindNumber extends JFrame {
 
 
     JButton button1;
-    JLabel label1, label2;
+    JLabel label1;
     JTextField textField1;
     Logic logic = new Logic();
 
@@ -36,12 +36,10 @@ public class FindNumber extends JFrame {
         setLayout(new FlowLayout());
         button1 = new JButton("Ввести");
         label1 = new JLabel("Угадайте число от 0 - 1000  ");
-        label2 = new JLabel("");
         textField1 = new JTextField(10);
         add(label1);
         add(button1);
         add(textField1);
-        add(label2);
         button1.addActionListener(logic);
 
 
