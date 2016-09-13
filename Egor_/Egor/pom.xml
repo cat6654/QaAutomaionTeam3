@@ -5,7 +5,10 @@
   <groupId>Tasks</groupId>
   <artifactId>Tasks</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <modules>
+    <module>../ComplexNumbers</module>
+  </modules>
+  <packaging>pom</packaging>
 
   <name>Tasks</name>
   <url>http://maven.apache.org</url>
